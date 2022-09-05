@@ -1,0 +1,38 @@
+{
+    "page": 1,
+    "results_per_page": 1000,
+    "total_results": 89,
+    "results": [
+        {
+            "customername": "ABC Traders",
+            "city": "Madurai",
+            "mobileno": "8987654321",
+            "category": "Preferred",
+            "email": "abctraders@gmail.com"
+            
+        },
+        {
+            "customername": "Arjun",
+            "city": "Chennai",
+            "mobileno": "7684590344",
+            "category": "Average",
+            "email": "arjun@gmail.com"
+            
+        },
+        {
+            "customername": "XYZ Traders",
+            "city": "Coimbatore",
+            "mobileno": "4557798712",
+            "category": "Most Average",
+            "email": "xyztraders@gmail.com"
+            
+        },  {
+            "customername": "Akila ",
+            "city": "Madurai",
+            "mobileno": "987654321234",
+            "category": "Preferred",
+            "email": "akila@gmail.com"
+            
+        }
+    ]
+}

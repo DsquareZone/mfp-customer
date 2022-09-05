@@ -1,0 +1,180 @@
+.ag-row-hover {
+  /* putting in !important so it overrides the theme's styling as it hovers the row also */
+  background-color: #dfdfff !important;
+}
+
+
+.ag-header-cell-label {
+  justify-content: center;
+}
+
+.ag-column-hover {
+  background-color: #dfffdf !important;
+}
+
+.band1 {
+  color: #010101;
+
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+
+
+}
+
+.tooltip .tooltiptext {
+
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: 150%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip .tooltiptext::after {
+
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent black transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.appbar29 {
+  background-color: #e7edfb !important;
+ 
+}
+
+.MuiDialog-scrollPaper .MuiDialog-paperWidthSm {
+  max-width: 600px;
+
+}
+
+.MuiDialog-scrollPaper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.top_paper {
+  width: 1200px;
+  min-width: 1199px;
+  max-width: 1200px;
+}
+
+.paper {
+
+  margin-left: 20px;
+}
+
+.row {
+  display: flex;
+  margin-left: 20px;
+
+
+}
+
+.row_1 {
+  margin-right: 100px;
+  width: 240px;
+  min-width: 239px;
+  max-width: 240px;
+}
+
+.row_2 {
+  margin-right: 100px;
+  width: 240px;
+  min-width: 239px;
+  max-width: 240px;
+}
+
+.row_3 {
+  width: 240px;
+  min-width: 239px;
+  max-width: 240px;
+  
+}
+
+.button {
+  display: flex;
+  margin-left: 980px;
+
+}
+
+.button_1 {
+  margin-right: 80px;
+  margin-top: 20px;
+  width: 5px !important;
+}
+
+.button_2 {
+  margin-top: 20px;
+  width: 40px !important;
+  min-width: 20px;
+  max-width: 20px;
+}
+
+.upload {
+  margin-left: 1000px;
+  margin-top: -70px;
+}
+
+.upload_label {
+  margin-left: 15px;
+
+}
+
+#Category {
+  height: 8px !important;
+}
+
+#Source {
+  height: 8px !important;
+}
+
+#organization {
+  height: 8px !important;
+}
+#cancel{
+  width: 10px;
+  text-transform: capitalize !important;
+}
+#save{
+  text-transform: capitalize !important;
+}
+.btn{
+  color: #010101;
+}
+span1{
+  color: red;
+  font-size: 12px;
+}
+#free-solo-2-demo{
+  height: 8px;
+}
+#tags-filled{
+  height: 8px;
+}
+
+#tags-filled1{
+  height: 25px;
+}
+#free-solo-2-demo1{
+  height: 25px;
+}
